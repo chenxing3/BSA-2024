@@ -3,3 +3,7 @@ This file is for your reference only. I have saved your grades locally in my sys
 Homework 1: 50/100
 - Note: you used programming to solve many of the questions. In this assignment, you needed to solve the problems without programming. 
 If you would like to redo the assignment, please see me during office hours.
+
+Homework 2: 100/100
+
+Homework 3: 100/100
